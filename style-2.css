@@ -138,7 +138,7 @@ header {
 .dropdown:hover .dropdown-content {
   display: block;
 }
-/*----------  End dropdown styling -----------*/
+/*----------  End of dropdown styling -----------*/
 
 .nav-bar a:not(#sign-in):not(#btn-anchor) {
   position: relative;
